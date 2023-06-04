@@ -1,4 +1,3 @@
-a=3
-b=4
-
-go fuck yourself!
+# %% [markdown]
+# # Recommending a rate plan using Machine Learning
+# %%
